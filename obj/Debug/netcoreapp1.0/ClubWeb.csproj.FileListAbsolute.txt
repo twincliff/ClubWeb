@@ -1,0 +1,9 @@
+c:\users\thoma\documents\visual studio 2017\Projects\ClubWeb\ClubWeb\bin\Debug\netcoreapp1.0\ClubWeb.deps.json
+c:\users\thoma\documents\visual studio 2017\Projects\ClubWeb\ClubWeb\bin\Debug\netcoreapp1.0\ClubWeb.runtimeconfig.json
+c:\users\thoma\documents\visual studio 2017\Projects\ClubWeb\ClubWeb\bin\Debug\netcoreapp1.0\ClubWeb.runtimeconfig.dev.json
+c:\users\thoma\documents\visual studio 2017\Projects\ClubWeb\ClubWeb\bin\Debug\netcoreapp1.0\ClubWeb.dll
+c:\users\thoma\documents\visual studio 2017\Projects\ClubWeb\ClubWeb\bin\Debug\netcoreapp1.0\ClubWeb.pdb
+c:\users\thoma\documents\visual studio 2017\Projects\ClubWeb\ClubWeb\obj\Debug\netcoreapp1.0\ClubWeb.csprojResolveAssemblyReference.cache
+c:\users\thoma\documents\visual studio 2017\Projects\ClubWeb\ClubWeb\obj\Debug\netcoreapp1.0\ClubWeb.AssemblyInfo.cs
+c:\users\thoma\documents\visual studio 2017\Projects\ClubWeb\ClubWeb\obj\Debug\netcoreapp1.0\ClubWeb.dll
+c:\users\thoma\documents\visual studio 2017\Projects\ClubWeb\ClubWeb\obj\Debug\netcoreapp1.0\ClubWeb.pdb
